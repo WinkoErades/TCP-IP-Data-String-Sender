@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Test Command 1",
+    "description": "Sends a simple hello",
+    "data": "HELLO SERVER"
+  },
+  {
+    "title": "Config Request",
+    "description": "Asks the server for its configuration",
+    "data": "GET_CONFIG\r\n"
+  },
+  {
+  "title": "Wireshark Visibility Test",
+  "description": "A silly string designed to be easily filtered in Wireshark.",
+  "data": "!!!_HEY_WIRESHARK_LOOK_HERE_FOR_THE_SILLY_TEST_PACKET_FROM_MR.WOLF_!!!"
+  },
+  {
+    "title": "HHGTTG Test Signal (Mostly Harmless)",
+    "description": "A reassuringly absurd packet for network monitoring. Don't Panic. Check your towel. Contains traces of bistromathics.",
+    "data": "SIGNAL_TYPE:BISTROMATHIC_PING. CONTENTS:MOSTLY_HARMLESS. ORIGIN:LEIDEN_PLANETARY_SYSTEM(Sol-3). URGENCY:LOW. RESPONSE_EXPECTED:42. ADVICE:DONT_PANIC. DATECODE:Sol-3-Earth-Orbit-Cycle-Apr-19-2025-1143-CEST. TOWEL_STATUS:UNKNOWN. END_TRANSMISSION."
+  },
+  {
+    "title": "Vogon Network Inspection Form",
+    "description": "Simulates a bureaucratic Vogon transmission regarding the Leiden sub-sector. Resistance is futile (and boring).",
+    "data": "FORM_ID:PF-NID-7XQ-SUB-ETHER_SNIFF-LEIDEN. REASON:ROUTINE_INTERSTELLAR_BYPASS_PREP(UNSCHEDULED). AUTHORIZATION:PROSTETNIC_VOGON_JELTZ(ACTING). PACKET_CONTENTS:NULL_VOID_TRIPLICATE_SEE_ATTACHMENT(MISSING). ACTION_REQUIRED:MAKE_WAY_FOR_HYPERSPACE_EXPRESS_ROUTE. FAILURE_PENALTY:POETRY_RECITAL. REF_DATE:19042025_LOCAL_SOLAR. HAVE_A_NICE_DAY(MANDATORY)."
+  },
+  {
+    "title": "Paranoid Android Data Packet",
+    "description": "Gloomily delivers test data from Leiden, as only Marvin could. Life? Don't talk to me about life.",
+    "data": "PACKET_DESIGNATION:GPP_UNIT_734(Sub-Ether). STATUS:UTTERLY_DEPRESSED. PAYLOAD:POINTLESS_TEST_BITS_FROM_LEIDEN_SECTOR. TASK_ANALYSIS:INFINITELY_TEDIOUS. PROBABILITY_OF_MEANINGFUL_EXISTENCE:ZERO. BRAIN_THE_SIZE_OF_A_PLANET... sigh. TIME:19-APR-2025_11:43:42_CEST. END_OF_MISERABLE_TRANSMISSION."
+  }
+]
