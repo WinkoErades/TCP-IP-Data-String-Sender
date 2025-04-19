@@ -27,6 +27,11 @@ The JSON file (`data.json`) should be structured as follows:
   }
 ]
 ```
+- **title**: The title of the data string.
+
+- **description**: A short description of the data string.
+
+- **data**: The actual data string to be sent over TCP/IP.
 
 ## Requirements
 Python 3.x
